@@ -1,0 +1,38 @@
+body{background-color: rgb(184, 238, 220);}
+
+h1{text-align: center;
+    color: rgb(18, 126, 126);}
+
+.saudacao{font-size: larger;
+    text-align: center;
+    background-color: rgb(102, 171, 148);}
+
+p{font-size: large;
+    text-align: justify;}
+
+.obs{font-size: small;
+    color: gray;}
+
+.linhaDivisoria{background-color: rgb(102, 171, 148); color: rgb(102, 171, 148);}
+
+ul{li{padding: 10px;}}
+
+.tabela{padding: 10px;}
+
+img{border-radius: 10px;
+    width: 200px;
+    height: 160px;}
+
+table, tr, td{border: 2px solid;
+    border-color: rgb(102, 171, 148);
+    text-align: center;
+    width: 300px;}
+    tr:nth-child(odd){background-color: rgb(102, 171, 148);}
+    tr:hover{background-color: rgb(120, 207, 178);}
+    
+
+a:hover{color: rgb(179, 0, 255);}
+
+button{color: white;
+background-color: black;}
+button:hover{background-color: rgb(57, 57, 57);}
